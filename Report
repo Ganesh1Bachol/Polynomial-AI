@@ -30,7 +30,7 @@ d. Resource Constraints
 Optimizing models, especially large ones like BERT, can be computationally expensive and time-consuming. Constraints such as limited computational resources or time availability impeded my optimization process.
 
 Conclusion
-In conclusion, the provided code showcases the basic implementation of a question answering model using BERT. Despite certain limitations and unfinished aspects. For future work, I need to obtain a labeled dataset, explore model fine-tuning techniques, and address data-related challenges. I believe, Continuous learning and hands-on experience will contribute to overcoming these obstacles and achieving more robust and optimized models for question answering tasks from my end.
+In conclusion, the provided code showcases the basic implementation of a question-answering model using BERT. Despite certain limitations and unfinished aspects. For future work, I need to obtain a labeled dataset, explore model fine-tuning techniques, and address data-related challenges. I believe, Continuous learning and hands-on experience will contribute to overcoming these obstacles and achieving more robust and optimized models for question answering tasks from my end.
 
 
 
